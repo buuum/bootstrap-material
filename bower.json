@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-material",
+  "homepage": "https://github.com/buuum/bootstrap-material",
+  "description": "",
+  "main": [
+    "css/bootstrap-material-design.min.css",
+    "js/bootstrap-material-design.min.js"
+  ],
+  "dependencies": {
+    "jquery": ">=2.0"
+  },
+  "license": "MIT"
+}
